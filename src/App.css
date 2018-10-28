@@ -1,9 +1,5 @@
 .App {
   text-align: center;
-  background-image: url('/picture.jpg') ;
-  background-size: no-repeat;
-  background-size: center;
-  background-size: cover;
 }
 h1 {
   text-shadow: 1px 1px rgb(241, 239, 235) ;
